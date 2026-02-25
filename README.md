@@ -1,4 +1,4 @@
-i had an internship at a school with a computer science teacher that gave me different mathematical and algorithm challenges like fx Hanoi so i could learn techniques like recursive
+i had an internship at a school with a computer science teacher that gave me different mathematical and algorithm challenges
 
 * [Hanoi](https://github.com/UniquezHD/Hanoi)
 * [Mandelbrot](https://github.com/UniquezHD/Mandelbrot)
